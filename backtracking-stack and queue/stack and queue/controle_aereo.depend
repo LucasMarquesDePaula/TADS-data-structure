@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1463088476 source:c:\users\wesley\documents\c\controle_aereo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fila.h"
+
+1463088826 c:\users\wesley\documents\c\controle_aereo\fila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1462922085 c:\users\wesley\documents\c\controle_aereo\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
